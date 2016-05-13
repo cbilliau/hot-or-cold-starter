@@ -34,6 +34,7 @@ $(document).ready(function(){
 		genNum();
 		userInput();
 		fieldReset();
+		counter = "0";
 	}
 
 // Random number generator
